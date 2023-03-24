@@ -1,0 +1,22 @@
+.aboutus {
+
+}
+
+.aboutus_img {
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 70%;
+}
+.aboutus_img img {
+  width: 80%;
+}
+
+@media screen and (max-width : 600px){
+  .aboutus_img {
+    width: 90%;
+  }
+  .aboutus_img img {
+    width: 100%;
+  }
+}
